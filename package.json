@@ -1,0 +1,17 @@
+{
+  "name": "snowflake-id-generator",
+  "version": "1.0.0",
+  "description": "Snowflake ID Generator",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "snowflake-id-generator": "1.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
